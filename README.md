@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Aysenursvs
 - 👀 I’m interested in cyber security.
-- 🌱 I’m currently learning python in our university.
-- 💞️ I’m looking to collaborate on ...(I am new in the github.)
+- 🌱 I’m currently learning cyber security topics especially blue team.
 - 📫 How to reach me aysenursivasligil966@gmail.com
 
 <!---

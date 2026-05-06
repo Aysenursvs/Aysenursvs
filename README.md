@@ -12,9 +12,8 @@ Currently, I serve as the **President of the IZTECH Cyber Security Society**, or
 * **Development:** Secure Coding, Scripting for automation
 
 ### 🛠️ Technical Stack
-* **Languages:** Python, Java, Assembly (MIPS)
-* **Security Tools:** Splunk, Wireshark, Ghidra, Nmap, Burp Suite
-* **Other:** Git, Linux (Bash)
+* **Cybersecurity**: SOC Fundamentals, Log Analysis (Nginx), Ethical Hacking (Basics), Network Traffic Analysis (Wireshark, TCP/IP Protocols), Network Scanning (Nmap), Basic Web Security.
+* **Technical Stack**: Python, Linux CLI(Kali/Ubuntu), Java, Docker, Git & GitHub, SQL.
 
 ### 📚 Current Focus
 * Preparing for **Blue Team** internships to apply my theoretical knowledge in real-world scenarios.
